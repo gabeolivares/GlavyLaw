@@ -3907,7 +3907,7 @@ input, select, textarea {
   display: none;
   overflow: hidden;
   position: fixed;
-  top: 0;
+  top: 10%;
   right: 0;
   bottom: 0;
   left: 0;
@@ -3981,8 +3981,10 @@ input, select, textarea {
   line-height: 1.42857143;
 }
 .modal-body {
-  position: relative;
-  padding: 15px;
+	max-height: 350px;
+	padding: 15px;
+	overflow-y: auto;
+	-webkit-overflow-scrolling: touch;
 }
 .modal-footer {
   padding: 15px;
