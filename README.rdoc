@@ -1,4 +1,4 @@
-Glavy Law Website built for client: Bud Glavy
+Glavy Law Website built for client: Bud Glavy - INACTIVE
 
 Details: a informational website for lawyer Bud Glavy. 
 Website used CSS, JAVASCRIPT, and RUBY ON RAILS
